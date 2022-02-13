@@ -2,7 +2,7 @@
 layout: member
 name: Rory Coughlin
 position: Undergraduate Researcher
-image: /assets/img/members/rory-coughlin.jpg
+image: /assets/img/members/rory-coughlin.JPG
 current: true
 group: Undergrad
 ---
