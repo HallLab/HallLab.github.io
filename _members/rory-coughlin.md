@@ -11,8 +11,8 @@ group: Undergrad
 
   * Penn State University - 4th year - BS Biochemistry and Molecular Biology
  
-
+ 
 
 **Project Interests**:
 
-  
+  * Alzheimer’s Disease
