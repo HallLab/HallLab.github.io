@@ -3,7 +3,7 @@ layout: member
 name: Serina Blessing
 position: Undergraduate Researcher
 image: /assets/img/members/serina-blessing.jpg
-current: true
+current: false
 group: Undergrad
 ---
 

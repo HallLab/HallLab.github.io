@@ -3,7 +3,7 @@ layout: member
 name: Anastasia Lucas
 position: Hall Lab Affiliate
 image: /assets/img/members/anastasia-lucas.webp
-current: true
+current: false
 group: Affiliate
 ---
 

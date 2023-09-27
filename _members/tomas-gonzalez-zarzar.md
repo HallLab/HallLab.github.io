@@ -3,7 +3,7 @@ layout: member
 name: Tomás González Zarzar
 position: Postdoctoral Researcher
 image: /assets/img/members/tomas-gonzalez-zarzar.jpeg
-current: true
+current: false
 group: Postdoc
 ---
 

@@ -3,7 +3,7 @@ layout: member
 name: Jiayan Zhou
 position: PhD Student (Pathobiology)
 image: /assets/img/members/jiayan-zhou.webp
-current: true
+current: false
 group: Grad
 ---
 
