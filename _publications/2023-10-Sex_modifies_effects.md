@@ -5,5 +5,5 @@ article_title: "Sex modifies predictive effects of imaging and CSF biomarkers on
 article_journal: Neurobiology of Aging (in press)
 article_volume:
 article_pages: 
-article_url:
+article_url: https://www.hall-lab.org/publications/
 ---
