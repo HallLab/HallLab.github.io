@@ -6,4 +6,5 @@ article_journal: Frontiers in Genetics (revise and resubmission)
 article_volume:
 article_pages: 
 article_url: https://www.hall-lab.org/publications/
+priority: 2
 ---

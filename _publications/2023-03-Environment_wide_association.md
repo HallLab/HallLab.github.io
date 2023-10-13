@@ -6,4 +6,5 @@ article_journal: Journal of Exposure Science and Environmental Epidemiology (und
 article_volume: medRxiv 2023
 article_pages: 2023.06.02.23290861
 article_url: https://www.medrxiv.org/content/10.1101/2023.06.02.23290861v1
+priority: 3
 ---

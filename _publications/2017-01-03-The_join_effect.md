@@ -6,4 +6,5 @@ article_journal: Autism Research
 article_volume: 10
 article_pages: 1470-1480
 article_url: https://doi.org/10.1002/aur.1799
+priority: 3
 ---
