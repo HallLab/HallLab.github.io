@@ -23,7 +23,7 @@ navbar-links:
     - BAMS: "projects/bams"
     - CLARITE: "projects/clarite"
     - EDGE: "projects/edge" 
-    - SAMP (coming soon): "projects/samp"
+    # - SAMP (coming soon): "projects/samp"
 
 # --- Logo --- #
 
