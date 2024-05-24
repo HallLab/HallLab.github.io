@@ -3,7 +3,7 @@ layout: member
 name: Morris Aguilar
 position: MD/PhD Student (BG)
 image: /assets/img/members/morris-aguilar.jpg
-current: true
+current: false
 group: Grad
 ---
 
