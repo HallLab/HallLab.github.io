@@ -66,8 +66,12 @@
             {% if include.type == "page" %}
               <hr class="small">
               <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+              <span class="{{ include.type }}-subheading">{{ page.subtitle2 }}</span>
+              <span class="{{ include.type }}-subheading">{{ page.subtitle3 }}</span>
             {% else %}
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+              <h2 class="{{ include.type }}-subheading">{{ page.subtitle2 }}</h2>
+              <h2 class="{{ include.type }}-subheading">{{ page.subtitle3 }}</h2>
             {% endif %}
           {% endif %}
 
